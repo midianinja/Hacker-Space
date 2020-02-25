@@ -24,7 +24,7 @@ O time da NINJA Hacker NINJA se compromete a promover um ambiente livre de assé
 5. Experiência do Usuário 
 6. Maker
 7. Formação Hacker 
-8. Organização de projetos
+8. Sistematização
 
 ![](img/comofunciona.png)
 
