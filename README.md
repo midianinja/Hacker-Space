@@ -52,7 +52,7 @@ s3 (storage)
 
 [https://github.com/foradoeixo](https://github.com/foradoeixo)
 
-## 🖖 Hacker Aqui
+## 🖖 Hacker Aqui | NINJA Tech
 
 Pra começar, coloque seus dados no nosso **banco de habilidades**. Vamos te conhecer melhor e ter no radar pra te acessar para projetos, além de convite para encontros pelo país!
 
