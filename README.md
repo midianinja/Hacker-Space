@@ -56,7 +56,7 @@ s3 (storage)
 
 Pra começar, coloque seus dados no nosso **banco de habilidades**. Vamos te conhecer melhor e ter no radar pra te acessar para projetos, além de convite para encontros pelo país!
 
-[https://docs.google.com/forms/d/e/1FAIpQLScMHtAJvIp39oryyQsovEKAayU_RFndSxtcdEiz7Kc6jk5wHA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScMHtAJvIp39oryyQsovEKAayU_RFndSxtcdEiz7Kc6jk5wHA/viewform)
+[https://docs.google.com/forms/d/e/1FAIpQLSffPfvPDzmQj1OlfdlsNTqB2spLnwx55QB2M9v8d9nfdZ0ZiQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSffPfvPDzmQj1OlfdlsNTqB2spLnwx55QB2M9v8d9nfdZ0ZiQ/viewform)
 
 ## 🌐 Projetos / 40 Redes
 
