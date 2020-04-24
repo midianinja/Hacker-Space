@@ -27,6 +27,11 @@
 
 O time da NINJA Hacker NINJA se compromete a promover um ambiente livre de assédio para todas as pessoas. Não será tolerada qualquer forma de assédio ou intimidação em seu espaço físico ou eventos. Por assédio entende-se comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoais, origem racial, gênero, bem como comentários ou imagens sexuais, racistas, homofóbicas, transfóbicas ou discriminatórias de qualquer natureza em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, fotografias ou gravações que gerem embaraço. Se você for assediado(a) ou perceber que alguém está sendo assediado(a), por favor entre em contato com nossos responsáveis para que medidas cabíveis sejam tomadas. Este Código de Conduta foi adaptado a partir dos códigos de conduta utilizados pela Wildtech e estão licenciados sob a Creative Commons Attribution-Share Alike 3.0 Unported.
 
+### 🕊Codes of Conduct
+
+The NINJA Hacker Team compromises to promote a environment free of harassments of any kind to anyone. Any kind of harassments ou intimidation behavior won't be tolerated in our events or offices. 
+As harassments, it is qualified:  offensive comments, verbal or virtual related to people’s choice, ethnicity, gender, sexuality; comments containing homophobic, transphobic content or prejudice of any kind; bullying; stalker behaviors; embarrassing photos or videos; if you suffer a harassment or sees one, please contact our team so the applicable measure may be taken. This Codes of Conduct was adapted from the codes of conduct used in Wildtech and are licensed by Creative Commons Attribution-Share Alike 3.0 Unported. 
+
 ## Áreas de Trabalho
 
 1. Inovação 
@@ -36,7 +41,18 @@ O time da NINJA Hacker NINJA se compromete a promover um ambiente livre de assé
 5. Experiência do Usuário 
 6. Maker
 7. Formação Hacker 
-8. Sistematização
+8. Sistematização 
+
+### Work Areas
+
+1. Innovation
+2. Infrastructure
+3. Science and Data
+4. User Experience
+5. Data Security 
+6. Maker 
+7. Hacker Training 
+8. System Organization
 
 ![](img/comofunciona.png)
 
@@ -48,7 +64,7 @@ Django rest framework
 ReactJS
 NodeJS
 
-## 👩‍💻 Infra
+## 👩‍💻 Infra /  Infrastructure 
 
 Serverless api's
 
@@ -58,19 +74,24 @@ MySQL
 
 s3 (storage)
 
-## 🦖 Repositórios
+## 🦖 Repositórios / Repository
 
 [https://github.com/midianinja](https://github.com/midianinja)
 
 [https://github.com/foradoeixo](https://github.com/foradoeixo)
 
-## 🖖 Hacker Aqui | NINJA Tech
+## 🖖 Hacker Aqui 
 
 Pra começar, coloque seus dados no nosso **banco de habilidades**. Vamos te conhecer melhor e ter no radar pra te acessar para projetos, além de convite para encontros pelo país!
 
-[https://docs.google.com/forms/d/e/1FAIpQLSffPfvPDzmQj1OlfdlsNTqB2spLnwx55QB2M9v8d9nfdZ0ZiQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSffPfvPDzmQj1OlfdlsNTqB2spLnwx55QB2M9v8d9nfdZ0ZiQ/viewform)
+### 🖖Are you a hacker? 
 
-## 🌐 Projetos / 40 Redes
+Let’s start! Register at our Skills Database. We will get to know you better and add to our radar that you can be called to a project or to join teams, besides get an invitation to the conferences and meetings. 
+
+
+[https://docs.google.com/forms/u/0/d/1L5UCYrzPBQpPoa6kH_JDeBwxx29ygiLideSC5dwIll4/viewform?edit_requested=true](https://docs.google.com/forms/u/0/d/1L5UCYrzPBQpPoa6kH_JDeBwxx29ygiLideSC5dwIll4/viewform?edit_requested=true)
+
+## 🌐 Projetos / 40 Redes / Projects / 40 Networks
 
 [Candidate-se](https://www.notion.so/Candidate-se-d28ec5eb55aa44b6b19099235232944c)
 
