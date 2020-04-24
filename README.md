@@ -1,7 +1,7 @@
 ## 🤖 Manifesto Hacker Space
 
-1. Somos hackerativistas na construção de um mundo melhor. We are hacker activists building a better world. 
-2. Lutamos pela equidade e por um ambiente livre de assédio, de qualquer tipo, seja da aparência pessoal, deficiência, etnia, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião. We fight for equality and for an environment free of harassment of any kind, ethnicity, age, identity or expression of gender, sexual identity, nationality, level of education, physical aspects, color ou religion.
+1. Somos hackerativistas na construção de um mundo melhor.
+2. Lutamos pela equidade e por um ambiente livre de assédio, de qualquer tipo, seja da aparência pessoal, deficiência, etnia, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião. 
 3. Lutamos pela abertura para o debate antirracista e construção de um espaço seguro LGBT.
 4. Tudo é possível. Aqui a lógica é solidária e colaborativa, o que você vive lá fora fica lá fora.
 5. Reunimos recursos humanos e inteligência coletiva.
@@ -10,6 +10,18 @@
 8. Temos lado e somos livres de julgamentos morais.
 9. Se chegou agora, ouça.
 10. Acreditamos que só o amor salva.
+
+### 🤖 Hackerspace Manifest
+1. We are hacker activists building a better world. 
+2. We fight for equality and for an environment free of harassment of any kind, ethnicity, age, identity or expression of gender, sexual identity, nationality, level of education, physical aspects, color ou religion.
+3. We fight for an open anti racism debate and the construction of a safe environment for LGBT community.
+4. Everything is possible. Here the logic is generous and collaborative, what you live outside stays outside. 
+5. We gather human resources and collective intelligence. 
+6. We are enthusiasts and practitioners of the Open Source. 
+7. We are vigilant of the data security and privacy matters.
+8. We have picked a side and, we are free from moral judgment.
+9. If the time has come, listen.
+10. We believe that only love saves.
 
 ## 🕊 Código de Conduta
 
