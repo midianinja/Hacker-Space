@@ -1,7 +1,7 @@
 ## 🤖 Manifesto Hacker Space
 
-1. Somos hackerativistas na construção de um mundo melhor.
-2. Lutamos pela equidade e por um ambiente livre de assédio, de qualquer tipo, seja da aparência pessoal, deficiência, etnia, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião.
+1. Somos hackerativistas na construção de um mundo melhor. We are hacker activists building a better world. 
+2. Lutamos pela equidade e por um ambiente livre de assédio, de qualquer tipo, seja da aparência pessoal, deficiência, etnia, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião. We fight for equality and for an environment free of harassment of any kind, ethnicity, age, identity or expression of gender, sexual identity, nationality, level of education, physical aspects, color ou religion.
 3. Lutamos pela abertura para o debate antirracista e construção de um espaço seguro LGBT.
 4. Tudo é possível. Aqui a lógica é solidária e colaborativa, o que você vive lá fora fica lá fora.
 5. Reunimos recursos humanos e inteligência coletiva.
